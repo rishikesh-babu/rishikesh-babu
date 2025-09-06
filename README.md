@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rishikesh Babu</h1>
-</br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishikesh-babu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">Hi 👋, I'm Rishikesh Babu</h1>
 
 ## Contributions Of Last Year
 
@@ -21,6 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-babu" alt="Rishikesh Babu's GitHub Trophies" /></a> </p>
 
 ## About Me
+<p> <img src="https://komarev.com/ghpvc/?username=rishikesh-babu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, python, pandas, numpy**
 
