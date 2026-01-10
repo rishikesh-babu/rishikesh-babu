@@ -8,6 +8,7 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=rishikesh-babu&theme=github-dark)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-babu&theme=github_dark" alt="" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishikesh-babu&show_icons=true&locale=en&bg_color=0d1117&title_color=30A3DC&text_color=FFFFFF&icon_color=30A3DC" alt="" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-babu&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=30A3DC&text_color=FFFFFF&icon_color=30A3DC" alt="" /></p>
