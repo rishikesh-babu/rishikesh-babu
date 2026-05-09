@@ -8,11 +8,7 @@
 
 ---
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=rishikesh-babu&theme=github-dark) -->
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-babu&theme=github_dark" alt="" /></p>
-
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikesh-babu&theme=onedark&title=-Reviews" alt="" /></a> </p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-babu&theme=github_dark" alt="" /></p>
 
 <div align="center">
   <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=rishikesh-babu&theme=react-dark" alt="Rishikesh Babu"/>
