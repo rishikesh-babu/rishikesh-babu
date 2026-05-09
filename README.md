@@ -10,7 +10,7 @@
 
 <!-- Streak Stats -->
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-babu&theme=github_dark&hide_border=true" alt="Streak Stats" height="170" /></td>
       <td style="border: none;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishikesh-babu&theme=github_dark&hide_border=true" alt="Contribution Summary" height="170" /></td>
